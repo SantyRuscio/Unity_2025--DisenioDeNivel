@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/PLAYER TWO/Platformer Project/Examples/Scenes/Desing_Level.unity
+    guid: 029d9ab4002b6ae44a50cd122a3eb2fa
+  - enabled: 1
     path: Assets/PLAYER TWO/Platformer Project/Examples/Scenes/TitleScreen.unity
     guid: 1cf5eb096d96e6c45b07b597b5bdde05
   - enabled: 1
